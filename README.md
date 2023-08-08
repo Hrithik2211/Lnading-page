@@ -1,2 +1,2 @@
-# Lnading-page
+# Landing-page
 Netflix-landing page
